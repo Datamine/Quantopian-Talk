@@ -7,7 +7,7 @@ Note that the quality of images in the pdf has been compressed to .jpg, which is
 I haven't looked at the .pptx -- I generated it automatically for your convenience. 
 
 There are two subfolders:
-* images-slides contains all the slides in image form (.png)  
-* raw-images-for-slides contains all the images I used to create the slides.
+* `images-slides` contains all the slides in image form (.png)  
+* `raw-images-for-slides` contains all the images I used to create the slides.
 
 You can see the full transcript of the presentation at www.johnloeber.com/docs/fama.html.
